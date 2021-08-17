@@ -7,6 +7,12 @@
         <p class="lead">Welcome to testing Github!</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
+    
+     <div class="jumbotron">
+        <h1>by Lian</h1>
+        <p class="lead">This is a test merge.</p>
+        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    </div>
 
     <div class="row">
         <div class="col-md-4">
